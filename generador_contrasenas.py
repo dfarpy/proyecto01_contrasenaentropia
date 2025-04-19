@@ -1,4 +1,4 @@
-oimport secrets
+import secrets
 import string
 import math
 
