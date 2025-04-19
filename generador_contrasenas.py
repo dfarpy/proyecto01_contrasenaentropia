@@ -27,7 +27,7 @@ if __name__ == "__main__":
 		else:
 			print("NIvel de seguridad: BAJO")
 	except ValueError as e:
-		print(f"Error: {e}")
+		print(f"Error: {e}") 
 
 
 
